@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 👟 Adidas Sales Review Dashboard
 
 ### 📊 Turning Adidas sales data into actionable business insights
