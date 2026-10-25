@@ -148,14 +148,9 @@ Adidas-Sales-Review-Dashboard/
 └── images/
     └── dashboard-preview.png
 ```
-
-To display your screenshot on GitHub, add it to the repository as
-`images/dashboard-preview.png`, then add this section:
-
-``` markdown
 ## 🖼️ Dashboard Preview
 
-<img width="1860" height="713" alt="Screenshot 2026-10-22 114520" src="https://github.com/user-attachments/assets/93f2a83c-1787-4fd9-bd64-85155b812d19" />
+<img width="1860" height="713" alt="Screenshot 2026-10-22 114520" src="https://github.com/user-attachments/assets/1b0ab064-a517-49de-aff1-3003dce99ede" />
 
 
 ## ✅ What This Project Demonstrates
@@ -187,7 +182,6 @@ If you find this project useful, feel free to ⭐ the repository!
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **📊 Explore the data. Discover the patterns. Support better
 decisions.**
 
