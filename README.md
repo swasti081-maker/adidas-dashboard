@@ -184,6 +184,5 @@ If you find this project useful, feel free to ⭐ the repository!
 decisions.**
 
 *Made with Excel and a curiosity for data 💚*
-Connect: swasti081@gmail.com
 
-:::
+Connect: swasti081@gmail.com
