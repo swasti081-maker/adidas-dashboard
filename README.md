@@ -145,8 +145,6 @@ A suggested repository structure:
 Adidas-Sales-Review-Dashboard/
 ├── README.md
 ├── Adidas_Sales_Review_Dashboard.xlsx
-└── images/
-    └── dashboard-preview.png
 ```
 ## 🖼️ Dashboard Preview
 
@@ -186,4 +184,6 @@ If you find this project useful, feel free to ⭐ the repository!
 decisions.**
 
 *Made with Excel and a curiosity for data 💚*
+Connect: swasti081@gmail.com
+
 :::
